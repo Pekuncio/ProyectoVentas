@@ -10,7 +10,7 @@ package Modelo;
  */
 public class login {
     //atributos de la clase login
-        private int id;
+    private int id;
     private String nombre;
     private String correo;
     private String pass;
